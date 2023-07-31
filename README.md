@@ -1,6 +1,6 @@
 # 📝TO-DO
-React 기초문법 TO-DO 리스트
-개인적으로 학습  중인 React를 사용한 to-do체크리스트 입니다.
+React 기초문법 TO-DO 리스트<br>
+개인적으로 학습  중인 React를 사용한 to-do체크리스트 입니다.<br>
 React 기초문법인 React  hook의 useState, component, prop 등을 사용하였습니다.
 이를 통해 할 일을 작성하고, 삭제하고, 상세정보를 확인할 수 있습니다.
 
