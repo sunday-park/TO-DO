@@ -1,23 +1,18 @@
 # 📝TO-DO
+React 기초문법 TO-DO 리스트
 개인적으로 학습  중인 React를 사용한 to-do체크리스트 입니다.
-React 기초문법인 React  hook의 useState, component, prop 등을 사용하였습니다. 이를 통해 할 일을 작성하고, 삭제하고, 상세정보를 확인할 수 있습니다.
-
-
+React 기초문법인 React  hook의 useState, component, prop 등을 사용하였습니다.
+이를 통해 할 일을 작성하고, 삭제하고, 상세정보를 확인할 수 있습니다.
 
 ## 개발환경
 `HTML` `CSS` `JavaScript` `JQuery (3.41)`
 `VSCode(v1.74)`
 `Node.js(v18.14.0)`
 
-
-
 ## 기능
-
 * 글 작성/삭제
 * component  모달
 * 완료 글에 체크표시
-
-
 <br>
 
 >**글 작성/삭제하기**
@@ -137,4 +132,4 @@ const titleClass = data.checked? "title_checked" : "title";
 
 ### 해결되지 않은 문제
 * localstorage에 저장되나 새로고침 시 사라짐
-* 
+* (진행중중)
